@@ -22,7 +22,7 @@ img{
     width:300px;
     height:600px;
     /* background-color: #FFE2D6 ; */
-    border: 0.51px solid #FFE2D6;
+    border: 0.51px solid #ffffff;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -110,7 +110,7 @@ iconify-icon{
     color: #404040;
 }
 #clickDark{
-    color: #FFE2D6;
+    color: #ffffff;
     display: none;
 }
 
